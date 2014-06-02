@@ -19,7 +19,7 @@ Logistics for tomorrow are as follows. We'll have a tight schedule, so let's mak
 
 **End of Quarter Presentations:**
 
-5:00: Wee Chuan and Andy Chua
+5:00: [Wee Chuan and Andy Chua](http://www.stanford.edu/~zdar/pres/SymSys%20150%20End%20of%20Qtr%20PPT%20Andy%20and%20Wee%20Chuan.pdf)
 
 5:07: Helen Hastings, and Matt Rolfo
 
