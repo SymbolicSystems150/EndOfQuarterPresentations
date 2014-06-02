@@ -9,7 +9,7 @@ Logistics for tomorrow are as follows. We'll have a tight schedule, so let's mak
 
 **External Reviews (Left over from last time):**
 
-4:25: Paul Benigeri, John Yang Sammataro, Ray Zhou, Anjney Midha, and Liu Jiang
+4:25: [Paul Benigeri, John Yang Sammataro, Ray Zhou, Anjney Midha, and Liu Jiang](http://www.stanford.edu/~zdar/pres/Truthcoin%20SYMSYS150%20External%20Review.pdf)
 
 4:35: Saurab Sharan, Payton Broaddus, Tyler Sorenson, and Jack Maris
 
