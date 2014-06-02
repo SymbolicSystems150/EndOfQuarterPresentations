@@ -13,7 +13,7 @@ Logistics for tomorrow are as follows. We'll have a tight schedule, so let's mak
 
 4:35: Saurab Sharan, Payton Broaddus, Tyler Sorenson, and Jack Maris
 
-4:45: Josh Beal and Matthew Arkin
+4:45: [Josh Beal and Matthew Arkin](https://docs.google.com/presentation/d/1OVYOlv70Lni5_7ED1hBlz6rTiBWMjX-ivyIY2TasBBY/edit#slide=id.p)
 
 
 
