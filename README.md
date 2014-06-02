@@ -35,7 +35,7 @@ Logistics for tomorrow are as follows. We'll have a tight schedule, so let's mak
 
 5:49: Saurab Sharan, Payton Broaddus, Tyler Sorenson, and Jack Maris
 
-5:56: Josh Beal and Matthew Arkin
+5:56: [Josh Beal and Matthew Arkin](http://tippt.me/)
 
 6:03: Eric Small
 
