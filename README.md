@@ -37,7 +37,7 @@ Logistics for tomorrow are as follows. We'll have a tight schedule, so let's mak
 
 5:56: [Josh Beal and Matthew Arkin](http://tippt.me/)
 
-6:03: Eric Small
+6:03: [Eric Small](https://docs.google.com/presentation/d/1qsapdj3amTZag1Oas6bt1y8Z-WpS4yeAwstidT29WoY/edit#slide=id.p)
 
 
 **Deck/Patio Dinner and Drinks:**
