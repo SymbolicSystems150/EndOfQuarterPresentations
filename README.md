@@ -29,7 +29,7 @@ Logistics for tomorrow are as follows. We'll have a tight schedule, so let's mak
 
 5:28: [John Komkov, Rikin Shah, and Keith Gross](http://stanford.edu/~zdar/pres/Cryptocurrency-State%20Seignorage%20(Preso)_SymSys150_6.2.2014.pdf)
 
-5:35: Dan Cocuzzo, Justin Maletsky, Doug Sharp, and Alex Marlantes
+5:35: [Dan Cocuzzo, Justin Maletsky, Doug Sharp, and Alex Marlantes](http://stanford.edu/~zdar/pres/SymsSys150%20Final%20Project_Remittance.pdf)
 
 5:42: Paul Benigeri, John Yang Sammataro, Ray Zhou, Anjney Midha, and Liu Jiang
 
