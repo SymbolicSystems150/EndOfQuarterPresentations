@@ -25,7 +25,7 @@ Logistics for tomorrow are as follows. We'll have a tight schedule, so let's mak
 
 5:14: [Eduardo Baer and Harrison Chilton](http://www.stanford.edu/~zdar/pres/Crypto%20Final%20Project-Baer_Chitlon_Anyansi.pdf)
 
-5:21: Mariano Sorgente and Adrian Leven
+5:21: [Mariano Sorgente and Adrian Leven](http://www.stanford.edu/~zdar/pres/The%20State%20of%20Anonymity%20in%20Bitcoin.pdf)
 
 5:28: John Komkov, Rikin Shah, and Keith Gross
 
