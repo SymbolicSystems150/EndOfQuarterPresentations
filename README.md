@@ -27,7 +27,7 @@ Logistics for tomorrow are as follows. We'll have a tight schedule, so let's mak
 
 5:21: [Mariano Sorgente and Adrian Leven](http://www.stanford.edu/~zdar/pres/The%20State%20of%20Anonymity%20in%20Bitcoin.pdf)
 
-5:28: John Komkov, Rikin Shah, and Keith Gross
+5:28: [John Komkov, Rikin Shah, and Keith Gross](http://stanford.edu/~zdar/pres/Cryptocurrency-State%20Seignorage%20(Preso)_SymSys150_6.2.2014.pdf)
 
 5:35: Dan Cocuzzo, Justin Maletsky, Doug Sharp, and Alex Marlantes
 
