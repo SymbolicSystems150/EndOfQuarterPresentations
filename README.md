@@ -21,9 +21,9 @@ Logistics for tomorrow are as follows. We'll have a tight schedule, so let's mak
 
 5:00: [Wee Chuan and Andy Chua](http://www.stanford.edu/~zdar/pres/SymSys%20150%20End%20of%20Qtr%20PPT%20Andy%20and%20Wee%20Chuan.pdf)
 
-5:07: Helen Hastings, and Matt Rolfo
+5:07: [Helen Hastings, and Matt Rolfo](https://docs.google.com/presentation/d/1lrbXfuAIKkwS6HBbfYEjj__xsmV35qEYcaOCvTN7uyE/edit#slide=id.g18520d462_01)
 
-5:14: Eduardo Baer and Harrison Chilton
+5:14: [Eduardo Baer and Harrison Chilton](http://www.stanford.edu/~zdar/pres/Crypto%20Final%20Project-Baer_Chitlon_Anyansi.pdf)
 
 5:21: Mariano Sorgente and Adrian Leven
 
